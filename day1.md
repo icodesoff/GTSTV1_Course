@@ -1,1 +1,1 @@
-Hello this is my course nate
+Hello this is my course note
