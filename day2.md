@@ -26,15 +26,25 @@
 *window manager*
 # linux is
 *fast*
+
 *most used*
+
 *most hacking tools*
+
 *most secured*
+
 **linux distributions/distro** is modified linux kernels.
+
 types of os with d/t **linux kernel**, **packages(gnu)**, **package manager**, **desktop ui.**
+
 they are over 600, and from them those are the best for hackers:
+
 *kali linux*
+
 *parrot Os*
+
 *garuda*
+
 *black arch*
 # and it have different types of usage, such as:
 1. main os/main-boot
