@@ -7,7 +7,7 @@
 *sh*, 
 *bash*,
 *zsh*,
-*fish*
+*fish* and 
 *difference b/n them are features.*
 -**Unix** is a family of operating systems that are widely used for running many dif ferent types of programs.
 # os contains
