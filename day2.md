@@ -4,9 +4,9 @@
 -**Linux** is an open-source operating system & its source code is available for any one to view and modify.
 -**Shell** is a user interface for access to an operating system's services.
 # types of shell 
-*sh* 
-*bash*
-*zsh* 
+*sh*, 
+*bash*,
+*zsh*,
 *fish*
 *difference b/n them are features.*
 -**Unix** is a family of operating systems that are widely used for running many dif ferent types of programs.
