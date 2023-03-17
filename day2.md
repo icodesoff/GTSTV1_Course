@@ -12,13 +12,17 @@
 -**Unix** is a family of operating systems that are widely used for running many dif ferent types of programs.
 # os contains
 *kernel*
+
 *softwares*
+
 *desktop environment*
 1. mate
 2. gnome
 3. KDE plasma
 4. XFCE
+
 *file extensions*
+
 *window manager*
 # linux is
 *fast*
