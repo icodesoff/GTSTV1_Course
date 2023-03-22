@@ -21,20 +21,22 @@
 
 3. nautilus
 
-**linux system uses shell.**
+**linux system uses shell,**
 **shell called terminal.**
+
 **have many commands**
-*ls*
-*cd*
-*pwd*
-*echo*
-*cat*
-*touch*
-*mkdir*
-*clear*
-*rm*
-*grep*
-*wc*
+*ls*,
+*cd*,
+*pwd*,
+*echo*,
+*cat*,
+*touch*,
+*mkdir*,
+*clear*,
+*rm*,
+*grep*,
+*wc*,
+*awk, awk*.
 # multiple comand excution
 1. and &&
 2. or ||
