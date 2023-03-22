@@ -36,7 +36,7 @@
 *rm*,
 *grep*,
 *wc*,
-*awk, awk*.
+*sed, awk*.
 # multiple comand excution
 1. and &&
 2. or ||
